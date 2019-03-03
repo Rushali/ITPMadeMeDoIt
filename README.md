@@ -1,2 +1,5 @@
 # ITPMadeMeDoIt
-An ITP Github Collaboration party/playground 🎉
+This repo is for an ITP Github Collaboration party/playground 🎉
+
+
+## How to use
