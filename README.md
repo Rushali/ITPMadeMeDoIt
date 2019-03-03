@@ -2,7 +2,7 @@
 This repo is for an ITP Github Collaboration party/playground 🎉
 
 
-## How to use
+## How to use this repo
 1. Fork this repo
 2. Modify ITPMadeYouDoWhat.md
 3. Commit the change 
