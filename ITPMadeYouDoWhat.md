@@ -6,3 +6,6 @@ Hello, I'm adding this because I was requested.
 Do you like snow days?
 
 I ate spirulina and I made my friends eat it too!!!! Haha
+
+I ate three apples today!!
+
