@@ -14,4 +14,6 @@ I ate spirulina and I made my friends eat it too!!!! Haha
 
 I ate three apples today!!
 
+and mangoes are aaamaazing
+
 I ate a jalapeno cheddar stick today.
