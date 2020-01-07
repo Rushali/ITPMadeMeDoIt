@@ -13,3 +13,5 @@ I've eaten pizza twice today already
 I ate spirulina and I made my friends eat it too!!!! Haha
 
 I ate three apples today!!
+
+and mangoes are aaamaazing
