@@ -17,3 +17,5 @@ I ate three apples today!!
 and mangoes are aaamaazing
 
 I ate a jalapeno cheddar stick today.
+
+I asked Shiffman for stickers
